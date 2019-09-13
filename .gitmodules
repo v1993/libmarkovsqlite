@@ -1,0 +1,4 @@
+[submodule "src/sqlite_modern_cpp"]
+	path = src/sqlite_modern_cpp
+	url = https://github.com/SqliteModernCpp/sqlite_modern_cpp.git
+	branch = dev
